@@ -1,0 +1,16 @@
+Database:
+    [ ] PJLink
+    [ ] RS-232C (old)
+    [ ] RS-232C (new)
+
+Backend:
+    [x] TCP connections @done(19-09-10 12:16)
+        [ ] (and acknowledgements)
+    [x] UDP connections @done(19-09-10 12:16)
+        [ ] (and answers)
+    [ ] Serial connections @low 
+    [ ] Hotkeys for Shutter / lens functions
+
+GUI:
+    [ ] Create nice interface
+    [ ] disable buttons without functions
